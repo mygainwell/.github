@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-# :warning:If you are a visual studio user, please update your profile with email associated with your visual studio account :warning:
+# ⚠️ Please Read below
 
+ - 🛑 If you are a Visual Studio Enterprise user, please update your profile with email associated with your visual studio account
+ - 🛑 Please enable SSO, we will force SSO for everyone by __May 16th 2022__ . If SSO is not enabled, your account will be removed from GitHub
 
 <!--
 
