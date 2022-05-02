@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# :warning:If you are a visual studio user, please update your profile with email associated with your visual studio account :warning:
+
+
 <!--
 
 **Here are some ideas to get you started:**
