@@ -3,7 +3,7 @@
 # ⚠️ Please Read below
 
  - 🛑 If you are a Visual Studio Enterprise user, please update your profile with email associated with your visual studio account
- - 🛑 Please enable SSO, we will require SSO for everyone by __May 16th 2022__ . If SSO is not enabled, your account will be removed from GitHub
+ - 🛑 Please enable [SSO](https://github.com/orgs/mygainwell/sso) , we will require SSO for everyone by __May 16th 2022__ . If SSO is not enabled, your account will be removed from GitHub
 
 <!--
 
